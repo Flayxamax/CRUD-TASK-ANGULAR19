@@ -1,6 +1,21 @@
-# TaskCrud18
+# TASK CRUD 19
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
+
+## Project Description
+
+TaskCrud19 is a simple task management application built with Angular and Tailwind CSS. It allows users to create, read, update, and delete tasks. The application demonstrates the use of Angular's features such as components, services, pipes, resolvers, guards and routing. It is designed to be a starting point for learning and building more complex Angular applications.
+
+## DEMO
+![readmeFile1](https://github.com/user-attachments/assets/8d96ae2c-9dff-4dbb-9a65-8ba0d5857039)
+
+![readmeFile2](https://github.com/user-attachments/assets/9d5a586d-6e5e-475f-813d-5a6636b873ed)
+
+## Install dependencies
+
+```bash
+npm install
+```
 
 ## Development server
 
@@ -11,20 +26,6 @@ ng serve
 ```
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
 
 ## Building
 
@@ -53,7 +54,3 @@ ng e2e
 ```
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
